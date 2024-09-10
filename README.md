@@ -42,7 +42,7 @@ Web application using React,TypeScript & NodeJs
 
 Desktop Views
 
-![Alt text](<Screen 1.png>)
+![ScreenShot](https://github.com/shelumeal/benefit-calculator/blob/main/screenshots/Screen%201.png)
 
 ![Alt text](<Screen 2.png>)
 
