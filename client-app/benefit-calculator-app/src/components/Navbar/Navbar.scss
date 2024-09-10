@@ -1,0 +1,23 @@
+.primary-nav{
+    display: flex;
+    background-color: #1c76D5;
+    padding: 16px;
+    gap: 24px;
+  }
+  
+  nav a{
+    text-decoration: none;
+    margin-right: 16px;
+    color: rgba(255, 255, 255, .55);
+  }
+  
+  nav a.active{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+  }
+  
+  .title{
+    color: #002c77;
+    font-weight: 600;
+  }

@@ -1,0 +1,24 @@
+@import "../../common/colors.scss";
+
+.search-result {
+
+    .panel {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 2rem;
+        width: 75rem;
+
+        .benefit-card{
+            display: flex;
+            flex-direction: row;
+            padding: 16px;
+            background-color: #fff4d27a;
+
+            .benefit-name{
+                color: #0d6efd;
+                margin-left: 10px;
+            }
+        }
+    }
+}

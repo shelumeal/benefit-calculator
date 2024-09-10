@@ -1,0 +1,18 @@
+@import "../../common/colors.scss";
+
+.search-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 80px;
+
+    .title{
+        color: $font-color-secondary;
+    }
+
+    .w-100{
+        width: 100%;
+    }
+}
