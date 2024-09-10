@@ -22,6 +22,10 @@ Web application using React,TypeScript & NodeJs
 - ExpressJs
 - TypeScript
 
+**DataBase:**
+
+- MongoDB (MongoDB Atlas)
+
 ## Installation and Setup Instructions
 
 **Client App:**
