@@ -40,7 +40,7 @@ Web application using React,TypeScript & NodeJs
 - Clone down this repository. You will need node and npm installed globally on your machine.
 - Installation: run 'npm install'
 - To Start Server: run 'npm run start'
-- To Visit App: : localhost:5001/
+- To Run Api Service: : localhost:5001/
 
 ## Screen Shot(s)
 
