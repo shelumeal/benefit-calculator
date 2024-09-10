@@ -40,15 +40,17 @@ Web application using React,TypeScript & NodeJs
 
 ## Screen Shot(s)
 
-Desktop Views
-
 ![ScreenShot](https://github.com/shelumeal/benefit-calculator/blob/main/screenshots/Screen%201.png)
 
-![Alt text](<Screen 2.png>)
+![ScreenShot](https://github.com/shelumeal/benefit-calculator/blob/main/screenshots/Screen%202.png)
 
-![Alt text](<Screen 3.png>)
+![ScreenShot](https://github.com/shelumeal/benefit-calculator/blob/main/screenshots/Screen%203.png)
 
-![Alt text](<Screen 4.png>)
+![ScreenShot](https://github.com/shelumeal/benefit-calculator/blob/main/screenshots/Screen%204.png)
+
+![ScreenShot](https://github.com/shelumeal/benefit-calculator/blob/main/screenshots/Screen%205.png)
+
+![ScreenShot](https://github.com/shelumeal/benefit-calculator/blob/main/screenshots/Screen%206.png)
 
 ## Project Folder Structure
 
