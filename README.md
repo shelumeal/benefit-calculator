@@ -1,6 +1,6 @@
-# assessment-react-application
+# Benefit-Calculator-application
 
-Web application using React and TypeScript
+Web application using React,TypeScript & NodeJs
 
 ## Tech Stack
 
@@ -11,19 +11,32 @@ Web application using React and TypeScript
 - HTML
 - CSS
 - Bootstrap
-- Bootstrap Icons
 - React-router
-- axios
+- Axios
+- TypeScript
+- Vite
 
 **BackEnd:**
-No
+
+- NodeJs
+- ExpressJs
+- TypeScript
 
 ## Installation and Setup Instructions
+
+**Client App:**
 
 - Clone down this repository. You will need node and npm installed globally on your machine.
 - Installation: run 'npm install'
 - To Start Server: run 'npm run dev'
-- To Visit App: : localhost:3000/
+- To Visit App: : localhost:8080/
+
+**Server App:**
+
+- Clone down this repository. You will need node and npm installed globally on your machine.
+- Installation: run 'npm install'
+- To Start Server: run 'npm run start'
+- To Visit App: : localhost:5001/
 
 ## Screen Shot(s)
 
@@ -39,6 +52,8 @@ Desktop Views
 
 ## Project Folder Structure
 
+**Client App:**
+
 - Assets
   - images : Images & othet assets
 - Common
@@ -47,15 +62,26 @@ Desktop Views
     apiUrls : Maintain all api urls
     colors : Global color variables
 - Components
+  - NavBar
+  - ResultItem
   - SearchBar
-  - SearchContainer
   - SearchResult
 - Models : TypeScript interface/model for result items
-- Pages : Master Page
+- Pages : Master Pages
 - Service : Service for API calls or search logic
+
+**Server App:**
+
+- Common
+  - helpers : Helper methods & Utility functions
+- Config
+  - dbConfig : Database configuration & connection string
+- Controllers : API controlers
+- Models : TypeScript interface/model
+- Routes : Route configuration
+- Server.ts : (Entry point) Server & middleware configuration
 
 ## Assumptions
 
 - Utilized Vite to build the React application for its fast development experience.
 - Leveraged Bootstrap and Sass to implement responsive design.
-- Developed a custom debounce hook to display suggestions and minimize multiple API calls.
