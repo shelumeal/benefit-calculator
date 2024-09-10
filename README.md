@@ -73,8 +73,13 @@ Web application using React,TypeScript & NodeJs
   - SearchBar
   - SearchResult
 - Models : TypeScript interface/model for result items
-- Pages : Master Pages
-- Service : Service for API calls or search logic
+- Pages
+  - Search
+  - Rules
+  - PageNotFound
+- Service
+  - RuleService
+  - SearchService
 
 **Server App:**
 
